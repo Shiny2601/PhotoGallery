@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(255, 241, 241);
+  }
+  .hed {
+    color: rgb(42, 3, 216);
+    text-align: center;
+    font-size: 50px;
+    font-family: Brush Script MT (cursive);
+  }
+  .subhed{
+    color: rgb(15, 11, 255);
+    text-align: center;
+    font-size: 24px;
+    font-family: cursive;
+
+  }
+  .hed1{
+    color: rgb(53, 12, 140);
+    text-align: center;
+    font-size: 30px;
+    font-family:'Arial Narrow Bold';
+
+  }
+  .value {
+    padding: 20px 40px;
+    border-radius: 40px;
+    border: 2px solid #101010;
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    background-color: rgb(255, 173, 173);
+    cursor: pointer;
+    margin-left: 30px;
+    margin-bottom:50px;
+  }
+  .image {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 25%;
+    margin-left: 1%;
+    margin-top: 2%;
+  }
+  .image1 {
+    border: 3px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+    width: 20%;
+    margin-left: 1%;
+    margin-top: 2%;
+  }
+  .attributes {
+    color: black;
+    font-family: cursive;
+  }
+  
+  image:hover {
+    box-shadow: 0 0 2px 1px rgba(212, 39, 166, 0.5);
+  }
+  .image1:hover {
+    box-shadow: 0 0 2px 1px rgba(110, 8, 83, 0.5);
+    background-color: rgb(244, 16, 58);
+  }
+  .value:hover {
+    background-color: rgb(255, 43, 64);
+    color: rgb(249, 209, 209);
+  }
+  .image:hover {
+    background-color: rgb(9, 5, 214);
+  }
+  
