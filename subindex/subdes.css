@@ -1,0 +1,12 @@
+h2 {
+    padding: 14px 28px;
+    border-radius: 25px;
+    border: 2px solid #4114f4f3;
+    width: 80px;
+    height: 40px;
+    text-align: center;
+    background-color: rgb(239, 246, 250);
+    cursor: pointer;
+    margin: auto;
+  }
+  
